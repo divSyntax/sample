@@ -5,7 +5,7 @@
     "name": "Acme Fresh Start Housing",
     "city": "Chicago",
     "state": "IL",
-    "photo": "/assets/example-house-1.jpeg",
+    "photo": "/assets/example-house-1",
     "availableUnits": 4,
     "wifi": true,
     "laundry": true
